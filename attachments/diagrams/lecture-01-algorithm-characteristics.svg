@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" font-family="sans-serif">
+<rect width="720" height="230" fill="#ffffff"/>
+<text x="20" y="26" font-size="15" font-weight="bold" fill="#222">The 5 specifications of an algorithm</text>
+<g font-size="13" fill="#222" text-anchor="middle">
+<rect x="15" y="50" width="130" height="90" rx="8" fill="#dae8fc" stroke="#555"/><text x="80" y="85" font-weight="bold">Input</text><text x="80" y="108">0 or more</text>
+<rect x="155" y="50" width="130" height="90" rx="8" fill="#d5e8d4" stroke="#555"/><text x="220" y="85" font-weight="bold">Output</text><text x="220" y="108">at least 1</text>
+<rect x="295" y="50" width="130" height="90" rx="8" fill="#fff2cc" stroke="#555"/><text x="360" y="85" font-weight="bold">Definiteness</text><text x="360" y="108">clear, unambiguous</text>
+<rect x="435" y="50" width="130" height="90" rx="8" fill="#ffe6cc" stroke="#555"/><text x="500" y="85" font-weight="bold">Finiteness</text><text x="500" y="108">ends in finite steps</text>
+<rect x="575" y="50" width="130" height="90" rx="8" fill="#f8cecc" stroke="#555"/><text x="640" y="85" font-weight="bold">Effectiveness</text><text x="640" y="108">actually doable</text>
+</g>
+<text x="20" y="185" font-size="13" fill="#555">Compared by: run time (time complexity) and memory use (space complexity)</text>
+</svg>

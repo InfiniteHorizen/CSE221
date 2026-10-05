@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" font-family="sans-serif">
+<rect width="720" height="150" fill="#ffffff"/>
+<text x="20" y="26" font-size="15" font-weight="bold" fill="#222">Growth order of common running times (slowest growth to fastest)</text>
+<g font-size="15" fill="#222" text-anchor="middle">
+<rect x="15" y="55" width="70" height="40" rx="6" fill="#d9ead3" stroke="#555"/><text x="50" y="81">1</text>
+<rect x="105" y="55" width="70" height="40" rx="6" fill="#d9ead3" stroke="#555"/><text x="140" y="81">log n</text>
+<rect x="195" y="55" width="70" height="40" rx="6" fill="#fff2cc" stroke="#555"/><text x="230" y="81">n</text>
+<rect x="285" y="55" width="90" height="40" rx="6" fill="#fff2cc" stroke="#555"/><text x="330" y="81">n log n</text>
+<rect x="395" y="55" width="70" height="40" rx="6" fill="#fce5cd" stroke="#555"/><text x="430" y="81">n²</text>
+<rect x="485" y="55" width="70" height="40" rx="6" fill="#fce5cd" stroke="#555"/><text x="520" y="81">n³</text>
+<rect x="575" y="55" width="70" height="40" rx="6" fill="#f4cccc" stroke="#555"/><text x="610" y="81">2ⁿ</text>
+</g>
+<g font-size="20" fill="#555" text-anchor="middle"><text x="95" y="82">&lt;</text><text x="185" y="82">&lt;</text><text x="275" y="82">&lt;</text><text x="385" y="82">&lt;</text><text x="475" y="82">&lt;</text><text x="565" y="82">&lt;</text></g>
+<text x="15" y="125" font-size="12" fill="#555">constant, logarithmic, linear, linearithmic, quadratic, cubic, exponential</text>
+</svg>
