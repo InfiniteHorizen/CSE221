@@ -57,4 +57,17 @@ Consultation hours, course resources and the Slack link are to be emailed.
 - Aim for 50%+ attendance (official rule is 70%, but 50% is enough to sit the final)
 - Barred in lab = retake the course (about Tk 22,500 to 25,000); happens through missed lab attendance or cheating/plagiarism
 
+## Topics covered
+
+### Time complexity / asymptotic analysis (Lecture 02 — covered)
+
+- Best, average and worst case; why time complexity uses the worst case
+- Independent vs dependent loops
+- Frequency count method and simplification rules
+- Time complexity of linear, logarithmic and square-root loops
+- Sequential loops (add) and nested loops (multiply)
+- Growth order of common complexity classes
+- Notation used so far: Big-O only
+
 Related: [INDEX](INDEX.md) | [Formula Sheet](Formula%20Sheet.md)
+

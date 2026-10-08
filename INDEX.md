@@ -17,3 +17,5 @@ tags:
 | # | Date | Topic |
 |---|---|---|
 | 01 | 2026-10-05 | [Introduction to Algorithms](Lectures/2026-10-05%20Lecture%2001%20-%20Introduction%20to%20Algorithms.md) |
+| 02 | 2026-10-07 | [Time Complexity of Loops](Lectures/2026-10-07%20Lecture%2002%20-%20Time%20Complexity%20of%20Loops.md) |
+
